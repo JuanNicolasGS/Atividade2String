@@ -3,4 +3,4 @@ let toAbbrev = (string) => {
     return `${firstName} ${lastName.at(0)}.`;
 };
 
-export default toAbbrev;
+console.log(toAbbrev('Round Hood'))

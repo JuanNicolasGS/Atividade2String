@@ -2,4 +2,4 @@ let toArray = (string) => {
   return string.split(/\s+/);
 };
 
-export default toArray;
+console.log(toArray('Round Hood'))

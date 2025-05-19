@@ -6,4 +6,4 @@ let isString = (string) => {
   }
 };
 
-export default isString;
+console.log(isString('Round Hood'))

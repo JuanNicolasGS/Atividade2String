@@ -6,4 +6,4 @@ let isEmpty = (string) => {
   }
 };
 
-export default isEmpty;
+console.log(isEmpty('Round Hood'))
